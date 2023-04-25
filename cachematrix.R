@@ -1,4 +1,3 @@
-#needs testing
 #This function creates a special "matrix" object that can cache its inverse.
 #We may assume that the matrix supplied is always invertible.
 
